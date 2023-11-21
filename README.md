@@ -1,8 +1,8 @@
 Hi, I’m @FenylSaylem
 
-first and foremost my interest lies in Cybersecurity. Another big interest is Data Analysis
+First and foremost my interest lies in Cybersecurity.
 
-At this time i am taking my first steps with R and python for the aforementioned analysis.
+At this time i am taking my first steps with python.
 
 You can reach me best on Discord. @fenryl.
 
